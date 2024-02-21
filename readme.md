@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sani Anna Varghese</h1>
-<h3 align="center">Passsionate about front end development and open source enthusiast. enthusia</h3>
+<h3 align="center">Passsionate about front end development and open source enthusiast. </h3>
 
 - 🌱 I’m currently learning **react,machine learning.**
 
