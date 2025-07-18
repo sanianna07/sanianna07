@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **sani.csb2125@saintgits.org**
 
+### 📚 Education
+
+- **B.Tech (Honours) in Computer Science**, Saintgits College of Engineering  
+  CGPA: 8.89 / 10 | *2021–2025*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanivarghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanivarghese" height="30" width="40" /></a>
