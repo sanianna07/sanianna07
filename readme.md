@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sani Anna Varghese.</h1>
 <h3 align="center">Passsionate about front end development and open source enthusiast.</h3>
 
-- 🌱 I’m currently learning **react,machine learning.**
+- 🌱 I’m currently learning **cybersecurity,react,machine learning.**
 
 - 📫 How to reach me **sani.csb2125@saintgits.org**
 
